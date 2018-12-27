@@ -1,4 +1,4 @@
-# Predict-the-user-intention-with-Support-Vector-Machines-and-SVMBM25
+# Intent-Anaysis-with-Support-Vector-Machines-and-SVMBM25
 Background
 The intent analysis is one of the important fields in Natural Language Processing. By analyzing the pattern of the text, the machine can understand what the user needs most at that time. The intent analysis can be used when building the chatbot, auto driving car, banking, and financial system, etc.
 Although all sentence contains the intention, not every sentence is important. For example in the mailing system, some emails can be detected as the Spam because the content of the email are have no clear intention. Another problem in intent analysis is the bias. Even for a human, analyzing the intention of others is tricky and sometimes can result in the multiple interpretations. These two problems motivated the NLP researcher to build the intent analysis method to minimize the error.
