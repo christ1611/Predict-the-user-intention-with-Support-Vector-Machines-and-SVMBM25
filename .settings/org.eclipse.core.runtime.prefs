@@ -1,0 +1,4 @@
+content-types/enabled=false
+content-types/org.eclipse.cdt.core.cxxHeader/file-extensions=tcc
+eclipse.preferences.version=1
+line.separator=\r\n

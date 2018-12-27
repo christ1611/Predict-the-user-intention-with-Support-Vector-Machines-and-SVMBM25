@@ -1,0 +1,13 @@
+What developer text editors are available for Ubuntu?
+What screenshot tools are available?
+Which programs can I use to edit PDF files?
+Is there a lightweight tool to crop images quickly?
+What IRC clients are available?
+What new games are available for Ubuntu in 2011?
+UPNP / DLNA (client) player recommendations?
+What scientific plotting software is available?
+Can you recommend a password generator?
+What tools do you use to monitor a web server?
+What is a good MongoDB GUI client?
+Password Management Applications?
+Is there an application for reading mobi files?

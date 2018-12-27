@@ -1,0 +1,36 @@
+Upgrading from 11.10 to 12.04
+How do I upgrade to the release version of 16.04 if I am running Beta?
+Doubts regarding the 15.04 upgrade (is it inevitable and unavoidable?)
+Is any offline upgrade from 13.10 to 14.04 possible?
+Upgrading from ubuntu 12.04 to 13.10
+Ubuntu upgrade failed
+Upgrading from 12.04 to 13.10 ( Unanswered questions )
+upgrading to Ubuntu 13.10 from Ubuntu 13.04
+Force upgrade 12.10 to 13.04
+How to partially upgrade Ubuntu 11.10 from Ubuntu 11.04?
+Problem upgrading Ubuntu 9.10
+Is it necessary to upgrade to 15.10 from 14.04?
+How do I update Xubuntu 11.10 to Xubuntu 12.04 LTS?
+Why did the upgrade from 11.10 to 12.04 ruin my system?
+Problems upgrading from 12.04 to 14.04
+Problems upgrading Ubuntu 12.10 to 13.04
+Upgrade from 12.04 to 12.10 without losing files?
+Do I need to uninstall 10.04 to upgrade to 12.04?
+Do I need to reinstall everything to upgrade from 13.10 to 14.10?
+update-manager: upgrade to 15.04 rather than 16.04
+Upgrading 16.04 to 16.04.1
+Upgrading Ubuntu Server 9.10 to 10.04
+Ho do I update to 13.04 from the beta?
+How to upgrade from 12.10 to 14.04
+Upgrading from 10.10 to 11.04 how much space is needed?
+Do I need to backup my 12.04 system to upgrade to 12.04.1?
+Cannot upgrade from 12.04LTS to 14.04
+Upgrade 10.10 to 11.04
+How to upgrade from 14.04 LTS or 15.10 to 16.04 from terminal
+How to upgrade from 16.04 LTS to 16.04.1 LTS
+Upgrading from 10.04 to 11.10
+How can i upgrade to Ubuntu 14.04 final from 14.04 Beta correctly?
+Is there an upgrade procedure from 12.04 LTS to 14.04 LTS
+Upgrade from 9.10 to 11.04
+How to upgrade Ubuntu 12.04 to 14.04 if I have dual boot with windows 7?
+Using 12.04 can I compile packages with gcc for 10.04?

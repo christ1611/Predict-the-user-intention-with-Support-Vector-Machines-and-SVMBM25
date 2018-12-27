@@ -1,0 +1,45 @@
+What software can I use to view epub documents?
+Which PDF Viewer would you recommend?
+What IDEs are available for Ubuntu?
+What's the best Mind Mapping Software?
+Software to read a QR code?
+PDF to word conversion software?
+Is there software that can view .dwg files?
+What are some good PHP editors?
+Is there a software utility to adjust screen gamma/brightness/contrast?
+Please recommend a hex editor for shell
+Is there LAN topology mapping software available in Ubuntu?
+Is there a tool like wifi analyzer for ubuntu?
+Tool for recovering deleted data from a flash drive
+What's a simple "colour picker" app for GNOME?
+Any app that tells me to take regular breaks from working?
+What are some good ASCII art generators?
+What are some good GUI binary viewers/editors?
+Which is the best PDF metadata viewer for Ubuntu?
+Is there a Linux file manager with a proper drop-down tree view? (like finder in OS X)
+Which application do you recommend for watching TV (DVB)?
+What Is The Best HDR Software?
+What do you use to edit Microsoft Word documents (docx)?
+What's the best Wireframing tool?
+Is there any software that will do face recognition in photos?
+Applications to replace iTunes for iPod synchronization?
+Is there an SSH connection manager?
+A light alternative to gnome-system-monitor?
+Software to create a video slideshow?
+Is there a project management software for Ubuntu like Microsoft Project?
+Is there any recovery software available for ext4?
+What blog editor software are available?
+Can you recommend a good modern GUI download manager (wget wrapper?)
+Is there any program for fuzzy string matching which provides a match score?
+Are there any hardware diagnostic tools?
+Recommendation for Regex editor?
+Is it recommended to upgrade to Lubuntu 15.04?
+On really old Ubuntu 6.06 - How to upgrade
+Wubi Device /dev/loop0 full. How to get more space?
+Removing Recently used items in 12.04
+In Unity how do I see the details of a given launcher?
+Any command line calculator for Ubuntu?
+Extracting embedded images from a PDF
+What to use to quickly cut Audio/Video
+MySQL GUI Tools
+
